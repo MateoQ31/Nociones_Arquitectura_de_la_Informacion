@@ -1,1 +1,1 @@
-# Nociones_Arquitectura
+# Nociones_Arquitectura_de_la_información
